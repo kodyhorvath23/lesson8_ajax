@@ -10,7 +10,7 @@ April 14, 2017
 Kody Horvath
 
 ### Project Description:
-This assingment introduced me to AJAX, Asynchronous JavaScript and XML, and I had to create a movie database that gave information back to the user. 
+This assignment introduced me to AJAX, Asynchronous JavaScript and XML, and I had to create a movie database that gave information back to the user. 
 
 ### View Project:
 https://kodyhorvath23.github.io/lesson8_ajax/
