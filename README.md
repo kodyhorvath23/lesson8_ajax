@@ -13,8 +13,7 @@ Kody Horvath
 This assingment introduced me to AJAX, Asynchronous JavaScript and XML, and I had to create a movie database that gave information back to the user. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kodyhorvath23.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. I learned that AJAX will allow you to load data from the server without having to refresh the browser. 
